@@ -19,7 +19,7 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://rithishreddy.me"),
-  title: "Rithish Reddy | Software Engineer & IIT Ropar",
+  title: "Rithish Reddy | Student at IIT Ropar",
   description:
     "Personal portfolio of Rithish Reddy, former Software Engineering Intern at Google and B.Tech student at IIT Ropar. Specializing in distributed systems, backend infrastructure, and scalable software.",
   keywords: [
